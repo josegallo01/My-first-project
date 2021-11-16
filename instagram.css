@@ -1,0 +1,50 @@
+#Instagram {
+
+    position: absolute;
+    left: 40%;
+    margin-left: -50px
+    
+}
+
+input[type="button" i] { 
+
+    width: 180px;
+    height: 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    background-color: #0000FF;
+    border:none;
+    color:white;
+    font-family:Georgia, serif;
+    margin-top: 5px; 
+}
+
+
+.content {
+
+    position: absolute;
+    left: -12%;
+    top: 201px;
+}
+
+
+
+.cadastro{
+    
+    position: absolute;
+    left: 24px;
+    top: 255px;
+    color: blue;
+}
+
+.appstore {
+
+    position: absolute;
+    left: -40px;
+}
+
+.playstore {
+
+    position: absolute;
+    left: 120px;
+}
